@@ -1,0 +1,4 @@
+../Icode/ad9834/ad9834.c:12:13:AD9834_Write16	24	static
+../Icode/ad9834/ad9834.c:24:6:AD9834_Init	8	static
+../Icode/ad9834/ad9834.c:38:6:AD9834_SetFrequency	24	static
+../Icode/ad9834/ad9834.c:54:6:AD9834_SetSine	8	static

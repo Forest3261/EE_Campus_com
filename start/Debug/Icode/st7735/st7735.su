@@ -1,0 +1,14 @@
+../Icode/st7735/st7735.c:25:13:ST7735_Select	8	static
+../Icode/st7735/st7735.c:30:13:ST7735_Unselect	8	static
+../Icode/st7735/st7735.c:36:13:ST7735_CommandMode	8	static
+../Icode/st7735/st7735.c:41:13:ST7735_DataMode	8	static
+../Icode/st7735/st7735.c:47:13:ST7735_Reset	8	static
+../Icode/st7735/st7735.c:56:13:ST7735_WriteCommand	16	static
+../Icode/st7735/st7735.c:64:13:ST7735_WriteData	16	static
+../Icode/st7735/st7735.c:72:13:ST7735_WriteData8	16	static
+../Icode/st7735/st7735.c:77:13:ST7735_SetAddressWindow	32	static
+../Icode/st7735/st7735.c:98:6:ST7735_Init	8	static
+../Icode/st7735/st7735.c:123:6:ST7735_DrawPixel	24	static
+../Icode/st7735/st7735.c:138:6:ST7735_FillRect	32	static
+../Icode/st7735/st7735.c:170:6:ST7735_FillScreen	24	static
+../Icode/st7735/st7735.c:175:6:ST7735_TestScreen	16	static

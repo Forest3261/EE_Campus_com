@@ -1,0 +1,4 @@
+../Icode/ad9834/ad9834.c:12:13:AD9834_Write16	1
+../Icode/ad9834/ad9834.c:24:6:AD9834_Init	1
+../Icode/ad9834/ad9834.c:38:6:AD9834_SetFrequency	1
+../Icode/ad9834/ad9834.c:54:6:AD9834_SetSine	1
